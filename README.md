@@ -19,8 +19,8 @@ Stack Intel is an evidence-first operational intelligence and technology-stack d
    - **Step 1: Company Identity** (Name, industry/type, stage, website, description).
    - **Step 2: Business Objectives** (Select multiple, set primary goal, linked to graph goal nodes).
    - **Step 3: Existing Technology Stack** (Add multiple tools, categories, plans, and monthly costs; supports unknown costs).
-   - **Step 5: Constraints & Guardrails** (Human approval required, preserve monitoring, zero downtime).
-   - **Step 6: Review & Confirmation** (Summarizes submitted data, explains backend persistence status honestly).
+   - **Step 4: Constraints & Guardrails** (Human approval required, preserve monitoring, zero downtime).
+   - **Step 5: Review & Confirmation** (Summarizes submitted data, explains backend persistence status honestly).
 
 3. **FalkorDB Graph Investigation Engine**:
    - Queries `POST /companies/{id}/investigate` with evidence-backed questions.
