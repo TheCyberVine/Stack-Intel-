@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to reference a public backend GitHub repository to inspect schemas, align frontend endpoints, and map API contracts without modifying the backend or connecting them together.",
+  "updatedAt": "2026-10-17T22:40:50.861668770Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

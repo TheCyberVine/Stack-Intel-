@@ -1,0 +1,6 @@
+{
+  "name": "Stack Intel",
+  "description": "Evidence-first company intelligence workspace for analyzing tech stacks, vendor investigations, and architectural decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
